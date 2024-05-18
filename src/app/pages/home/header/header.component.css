@@ -1,0 +1,8 @@
+.hero {
+    width: 100%;
+    background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0)),
+        url("https://laclinica.mx/wp-content/uploads/2019/04/login.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
