@@ -11,6 +11,7 @@ import { AboutUsComponent } from './pages/home/about-us/about-us.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SubHeroComponent } from './pages/home/sub-hero/sub-hero.component';
 import { DondeEstamosComponent } from './pages/donde-estamos/donde-estamos.component';
+import { SacarTurnoComponent } from './pages/sacar-turno/sacar-turno.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { DondeEstamosComponent } from './pages/donde-estamos/donde-estamos.compo
     AboutUsComponent,
     FooterComponent,
     SubHeroComponent,
-    DondeEstamosComponent
+    DondeEstamosComponent,
+    SacarTurnoComponent
   ],
   imports: [
     BrowserModule,
