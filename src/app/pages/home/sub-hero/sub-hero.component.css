@@ -1,0 +1,25 @@
+.card {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.debrown.com.ar/wp-content/uploads/2019/11/Odontologia-Claypole-Caps-2019.jpg);
+
+
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.content {
+    /* display: flex;
+    flex-flow: column nowrap; */
+    justify-content: center;
+    height: 100%;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    backdrop-filter: blur(16px);
+    background: rgba(38, 37, 37, 0.241);
+}

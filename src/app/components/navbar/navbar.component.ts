@@ -11,7 +11,9 @@ export class NavbarComponent {
 
   constructor() {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.addSmoothScroll();
+  }
 
   @HostListener('window:scroll')
   onScroll() {
@@ -24,5 +26,23 @@ export class NavbarComponent {
 
   openMenu() {
     this.open = !this.open;
+  }
+
+  addSmoothScroll() {
+    const anchors = document.querySelectorAll('a[href^="#"]');
+
+    anchors.forEach((anchor) => {
+      anchor.addEventListener('click', (event) => {
+        event.preventDefault();
+        const targetId = anchor.getAttribute('href')!.substring(1);
+        const targetElement = document.getElementById(targetId);
+
+        if (targetElement) {
+          targetElement.scrollIntoView({
+            behavior: 'smooth',
+          });
+        }
+      });
+    });
   }
 }

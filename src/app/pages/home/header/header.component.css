@@ -6,3 +6,15 @@
     background-position: center;
     background-size: cover;
 }
+
+/* Media query para dispositivos móviles */
+@media (max-width: 768px) {
+    .hero {
+        background-size: contain;
+        width: 100%;
+        background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0)),
+            url("https://laclinica.mx/wp-content/uploads/2019/04/login.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
