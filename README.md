@@ -1,4 +1,4 @@
-# 📱 CONSULTORIO ODONTOLÓGICO
+# 🦷 CONSULTORIO ODONTOLÓGICO
 
 Desarrollo de una página web donde se mustran los servicios que ofrecen, una breve descripción de los dueños y su negocio y un mapa de la ubicación de su local.
 
@@ -23,6 +23,7 @@ Desarrollo de una página web donde se mustran los servicios que ofrecen, una br
 🔗 [Ver DEMO](https://junasoft-odontologia.vercel.app/)
 
 ##### 🖼️ IMÁGENES ILUSTRATIVAS
+
 ![image](https://github.com/user-attachments/assets/8389a60c-d165-4081-8b61-73b664e08dd6)
 ![ODO2](https://github.com/user-attachments/assets/5da398d9-8142-4b4b-91f9-3a484d40bb50)
 
