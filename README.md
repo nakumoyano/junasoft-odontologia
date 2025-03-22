@@ -5,7 +5,6 @@ Desarrollo de una página web donde se mustran los servicios que ofrecen, una br
 ## 🚀 CARACTERÍSTICAS:
 
 - 🦷 Muestra de los servicios que ofrecen.
-- 🍽️ Visualización clara de los productos y precios.
 - 🌐 Compatible con dispositivos móviles y navegadores.
 
 ### 🛠️ TECNOLOGÍAS USADAS
