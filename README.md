@@ -21,7 +21,7 @@ Desarrollo de una página web donde se mustran los servicios que ofrecen, una br
 
 #### 📌 DEMO:
 
-🔗 [Ver el menú en vivo](https://junasoft-odontologia.vercel.app/)
+🔗 [Ver DEMO](https://junasoft-odontologia.vercel.app/)
 
 ##### 🖼️ IMÁGENES ILUSTRATIVAS
 
