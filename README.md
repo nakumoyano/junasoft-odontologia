@@ -24,6 +24,8 @@ Desarrollo de una página web donde se mustran los servicios que ofrecen, una br
 🔗 [Ver DEMO](https://junasoft-odontologia.vercel.app/)
 
 ##### 🖼️ IMÁGENES ILUSTRATIVAS
+![image](https://github.com/user-attachments/assets/8389a60c-d165-4081-8b61-73b664e08dd6)
+![ODO2](https://github.com/user-attachments/assets/5da398d9-8142-4b4b-91f9-3a484d40bb50)
 
 [angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
